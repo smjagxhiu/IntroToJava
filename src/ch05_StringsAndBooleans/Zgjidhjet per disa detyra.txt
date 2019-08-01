@@ -1,0 +1,26 @@
+Kapitulli 5. Tipi String, char dhe boolean.
+1. 
+a) "2a bc"
+b) "123"
+c) "33"
+d) "6"
+e) "15"
+
+2.
+a) true
+b) false
+
+3.
+double
+gabim tipi
+gabim tipi
+String
+String
+
+4.
+int x = (int)3.5;
+String s = 2 +"";
+d eshte double prandaj nuk lejohet te permbaj 
+vlere boolean
+Stringjet num perdoren me operacione 
+aritmetike perveq "+"

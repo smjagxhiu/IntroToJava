@@ -1,0 +1,4 @@
+Operatoret aritmetik: +, - *, / , %, ++, --
+Operatoret caktues (Asigment op): =, +=, -=, *=, /=, %=
+	variabla = viariabla + 20; => variabla += 20
+Operatoret relacional: ==, !=, <=, >=, <, >
